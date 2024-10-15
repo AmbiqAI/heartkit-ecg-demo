@@ -1,0 +1,12 @@
+[submodule "modules/ns-sensors"]
+	path = modules/ns-sensors
+	url = git@github.com:AmbiqAI/ns-sensors.git
+[submodule "modules/ns-tileio"]
+	path = modules/ns-tileio
+	url = git@github.com:AmbiqAI/ns-tileio.git
+[submodule "modules/ns-physiokit"]
+	path = modules/ns-physiokit
+	url = git@github.com:AmbiqAI/ns-physiokit.git
+[submodule "neuralspot"]
+	path = neuralspot
+	url = git@github.com:AmbiqAI/neuralSPOT.git
